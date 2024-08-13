@@ -1,314 +1,50 @@
 {
-  "projects": [
+  "locations": [
     {
       "id": "1",
-      "managerName": {
-        "url": "",
-        "name": "Ari Rolfson"
+      "locationName": "location 1",
+      "address": "New York",
+      "locationType": "string;",
+      "description": "string;",
+      "image": "string;",
+      "amenities": ["pool"],
+      "information": "string;",
+      "additionalDescription": "string;",
+      "contact": {
+        "phone": "84020382309",
+        "email": "nY2pR@example.com",
+        "website": "www.google.com"
       },
-      "projectName": "The Wind Done Gone",
-      "status": {
-        "variant": "potentialRisk",
-        "notes": "2312312"
+      "rating": 2,
+      "policies": "string;",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
       },
-      "lastUpdated": "2024-06-02T12:34:31.207Z",
-      "timeline": {
-        "start": "2023-02-09T12:04:31.207Z",
-        "end": "2024-08-11T12:12:12.207Z"
-      },
-      "estimation": 1000,
-      "resource": 6,
-      "isArchived": true
+      "openingHours": "10:00 AM to 09:00 PM"
     },
     {
       "id": "2",
-      "managerName": {
-        "url": "",
-        "name": "Lucas Then"
+      "locationName": "location 2",
+      "address": "New York",
+      "locationType": "string;",
+      "description": "string;",
+      "image": "string;",
+      "amenities": ["pool"],
+      "information": "string;",
+      "additionalDescription": "string;",
+      "contact": {
+        "phone": "84020382309",
+        "email": "nY2pR@example.com",
+        "website": "www.google.com"
       },
-      "projectName": "The Wind Done Gone",
-      "status": {
-        "variant": "potentialRisk",
-        "notes": "2312312"
+      "rating": 2,
+      "policies": "string;",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
       },
-      "lastUpdated": "2024-06-02T12:34:31.207Z",
-      "timeline": {
-        "start": "2023-02-09T12:04:31.207Z",
-        "end": "2024-08-11T12:12:12.207Z"
-      },
-      "estimation": 1000,
-      "resource": 6,
-      "isArchived": true
-    },
-    {
-      "id": "3",
-      "managerName": {
-        "url": "",
-        "name": "Ari Rolfson"
-      },
-      "projectName": "Project 3",
-      "status": {
-        "variant": "potentialRisk",
-        "notes": "This is notes"
-      },
-      "lastUpdated": "2024-06-02T12:34:31.207Z",
-      "timeline": {
-        "start": "2023-02-09T12:04:31.207Z",
-        "end": "2024-08-11T12:12:12.207Z"
-      },
-      "estimation": 1000,
-      "resource": 2,
-      "isArchived": true
-    },
-    {
-      "id": "ioo129",
-      "managerName": {
-        "url": "",
-        "name": "Ari Rolfson"
-      },
-      "projectName": "Project 5",
-      "status": {
-        "variant": "potentialRisk",
-        "notes": "This is notes"
-      },
-      "lastUpdated": "2024-06-02T12:34:31.207Z",
-      "timeline": {
-        "start": "2024-02-09T12:04:31.207Z",
-        "end": "2024-09-11T12:12:12.207Z"
-      },
-      "estimation": 1000,
-      "resource": 2,
-      "isArchived": true
-    },
-    {
-      "id": "opbn82j",
-      "managerName": {
-        "url": "",
-        "name": "Ari Rolfson"
-      },
-      "projectName": "Project 5",
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-01T152:32:31.207Z",
-      "timeline": {
-        "start": "2022-02-02T02:34:31.207Z",
-        "end": "2023-07-09T12:04:34.207Z"
-      },
-      "estimation": 20000,
-      "resource": 7,
-      "isArchived": false
-    },
-    {
-      "id": "4",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "projectName": "The Underground Railroad",
-      "status": {
-        "variant": "potentialRisk",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-01T152:32:31.207Z",
-      "timeline": {
-        "start": "2024-02-01T02:34:31.207Z",
-        "end": "2024-07-01T12:04:34.207Z"
-      },
-      "estimation": 20000,
-      "resource": 7,
-      "isArchived": false
-    },
-    {
-      "id": "12",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 0,
-      "resource": 0,
-      "projectName": "Project 12"
-    },
-    {
-      "id": "16",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 1000000,
-      "resource": 2,
-      "projectName": "Project 16"
-    },
-    {
-      "id": "17",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 1000000,
-      "resource": 2,
-      "projectName": "Project 16"
-    },
-    {
-      "id": "18",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "potentialRisk",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 1000000,
-      "resource": 2,
-      "projectName": "Project 18"
-    },
-    {
-      "id": "27",
-      "managerName": {
-        "url": "",
-        "name": "Lucas Then"
-      },
-      "status": {
-        "variant": "atRisk",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2023-12-13",
-        "end": "2024-01-10"
-      },
-      "estimation": 1000000,
-      "resource": 2,
-      "projectName": "Project 16"
-    },
-    {
-      "id": "213",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 902000,
-      "resource": 1,
-      "projectName": "Project 213"
-    },
-    {
-      "id": "214",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 1902000,
-      "resource": 1,
-      "projectName": "Project 213"
-    },
-    {
-      "id": "111",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 902000,
-      "resource": 1,
-      "projectName": "Project 111"
-    },
-    {
-      "id": "999",
-      "managerName": {
-        "url": "",
-        "name": "Mall Jens"
-      },
-      "status": {
-        "variant": "onTrack",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-07-13",
-        "end": "2024-08-10"
-      },
-      "estimation": 902000,
-      "resource": 1,
-      "projectName": "Project 999"
-    },
-    {
-      "id": "iopj90w",
-      "managerName": {
-        "url": "",
-        "name": "Lucas Then"
-      },
-      "status": {
-        "variant": "potentialRisk",
-        "notes": ""
-      },
-      "lastUpdated": "2024-07-10T10:24:22.943Z",
-      "timeline": {
-        "start": "2024-02-13",
-        "end": "2024-028-10"
-      },
-      "estimation": 10200,
-      "resource": 1,
-      "projectName": "Project 213"
+      "openingHours": "10:00 AM to 09:00 PM"
     }
   ]
 }
