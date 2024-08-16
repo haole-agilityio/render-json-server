@@ -47,5 +47,5 @@
       "openingHours": "10:00 AM to 09:00 PM"
     }
   ],
-  "users": [{ "username": "admin@example.com", "password": "123@abc" }]
+  "users": [{ "email": "admin@example.com", "name": "admin",  "password": "123@abc" }]
 }
