@@ -47,5 +47,5 @@
       "openingHours": "10:00 AM to 09:00 PM"
     }
   ],
-  "users": [{ "id": 1, "email": "admin@example.com", "name": "admin",  "password": "$2b$10$LlepZMFgA7i/6hS4FHsiAu.o6zLXNcO/gGPk9LiKV1o3xVSxUYRri" }]
+  "users": [{ "id": 1, "email": "user@example.com", "name": "admin",  "password": "$2b$10$n3k030xygp7.FqLRFvWES.tU/i9uSOar454/.XQCBB2wDdBgjxfGy" }]
 }
