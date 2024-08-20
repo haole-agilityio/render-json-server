@@ -2,50 +2,193 @@
   "locations": [
     {
       "id": "1",
-      "locationName": "location 1",
-      "address": "New York",
-      "locationType": "string;",
-      "description": "string;",
-      "image": "string;",
+      "locationName": "Coffee Farm Tour, From Seedling to Cup",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Hotel",
+      "description": "Every year middle class American families put off traveling because they’re too busy or too tired or they just don’t have enough money. And, in some ways, they’re right. Traveling can be expensive. But by taking the time to learn about discounts readily available to everyone through the internet, newspapers, and even the yellow pages, more families can venture off on vacations that will recharge their batteries, stimulate their minds, and create memories to last a lifetime.Airfare can be one of the most costly and unavoidable aspects of travel. Air travelers are constantly in search of a good deal. Numerous methods exist to get discounts on your next ticket. First, leave or return in the middle of the week",
+      "image": "https://loremflickr.com/300/300",
       "amenities": ["pool"],
-      "information": "string;",
-      "additionalDescription": "string;",
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "contact": {
-        "phone": "84020382309",
-        "email": "nY2pR@example.com",
-        "website": "www.google.com"
+        "phone": "854020038",
+        "email": "coffee-farm@example.com",
+        "website": "www.coffee-farm.com"
       },
-      "rating": 2,
-      "policies": "string;",
+      "rating": 4,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "benefits": {
         "snacks": ["noodlle", "chips"],
         "drinks": ["soda", "juice", "coca-cola", "pepsi"]
       },
-      "openingHours": "10:00 AM to 09:00 PM"
+      "openingHours": "10:00 AM to 09:00 PM",
+      "price": 12,
+      "stayTime": 6,
+      "allReviews": 45
     },
     {
-      "id": "2",
-      "locationName": "location 2",
-      "address": "New York",
-      "locationType": "string;",
-      "description": "string;",
-      "image": "string;",
+      "id": "4",
+      "locationName": "Market tour & Cooking class: Kenyan meal",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
       "amenities": ["pool"],
-      "information": "string;",
-      "additionalDescription": "string;",
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "contact": {
-        "phone": "84020382309",
-        "email": "nY2pR@example.com",
-        "website": "www.google.com"
+        "phone": "1220209",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
       },
-      "rating": 2,
-      "policies": "string;",
+      "rating": 3,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "benefits": {
         "snacks": ["noodlle", "chips"],
         "drinks": ["soda", "juice", "coca-cola", "pepsi"]
       },
-      "openingHours": "10:00 AM to 09:00 PM"
+      "openingHours": "8:00 AM to 09:00 PM",
+      "price": 9,
+      "stayTime": 4,
+      "allReviews": 109
+    },
+    {
+      "id": "6",
+      "locationName": "Coffee Farm Tour, From Seedling to Cup",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
+      "amenities": ["pool"],
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "contact": {
+        "phone": "59022311",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
+      },
+      "rating": 5,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
+      },
+      "openingHours": "9:00 AM to 09:00 PM",
+      "price": 20,
+      "stayTime": 9,
+      "allReviews": 15
+    },
+    {
+      "id": "7",
+      "locationName": "Walls to Trains Graffiti Tour",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
+      "amenities": ["pool"],
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "contact": {
+        "phone": "5420309",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
+      },
+      "rating": 4,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
+      },
+      "openingHours": "9:00 AM to 10:00 PM",
+      "price": 20,
+      "stayTime": 4,
+      "allReviews": 555
+    },
+    {
+      "id": "8",
+      "locationName": "Walls to Trains Graffiti Tour",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
+      "amenities": ["pool"],
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "contact": {
+        "phone": "5420309",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
+      },
+      "rating": 5,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
+      },
+      "openingHours": "9:00 AM to 09:00 PM",
+      "price": 23,
+      "stayTime": 3,
+      "allReviews": 147
+    },
+    {
+      "id": "9",
+      "locationName": "Explore local market & cook Kenyan meal",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
+      "amenities": ["pool"],
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "contact": {
+        "phone": "5420309",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
+      },
+      "rating": 4,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
+      },
+      "openingHours": "8:00 AM to 10:00 PM",
+      "price": 60,
+      "stayTime": 9,
+      "allReviews": 345
+    },
+    {
+      "id": "11",
+      "locationName": "Explore local market & cook Kenyan meal",
+      "address": "Mombasa road, Nextgen Mall",
+      "locationType": "Farm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "image": "https://loremflickr.com/300/300",
+      "amenities": ["pool"],
+      "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "contact": {
+        "phone": "5420309",
+        "email": "kenyan-meal@example.com",
+        "website": "www.kenyan-meal.com"
+      },
+      "rating": 5,
+      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
+      "benefits": {
+        "snacks": ["noodlle", "chips"],
+        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
+      },
+      "openingHours": "16:00 PM to 11:00 PM",
+      "price": 160,
+      "stayTime": 6,
+      "allReviews": 1145
     }
   ],
-  "users": [{ "id": 1, "email": "user@example.com", "name": "admin",  "password": "$2b$10$n3k030xygp7.FqLRFvWES.tU/i9uSOar454/.XQCBB2wDdBgjxfGy" }]
+  "users": [
+    {
+      "id": 1,
+      "email": "user@example.com",
+      "name": "admin",
+      "password": "$2b$10$n3k030xygp7.FqLRFvWES.tU/i9uSOar454/.XQCBB2wDdBgjxfGy"
+    }
+  ]
 }
