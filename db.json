@@ -9,18 +9,7 @@
       "image": "https://loremflickr.com/300/300",
       "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "854020038",
-        "email": "coffee-farm@example.com",
-        "website": "www.coffee-farm.com"
-      },
       "rating": 4,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "10:00 AM to 09:00 PM",
       "price": 12,
       "stayTime": 6,
@@ -33,20 +22,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "1220209",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 3,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "8:00 AM to 09:00 PM",
       "price": 9,
       "stayTime": 4,
@@ -59,20 +36,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "59022311",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 5,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "9:00 AM to 09:00 PM",
       "price": 20,
       "stayTime": 9,
@@ -85,20 +50,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "5420309",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 4,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "9:00 AM to 10:00 PM",
       "price": 20,
       "stayTime": 4,
@@ -111,20 +64,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "5420309",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 5,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "9:00 AM to 09:00 PM",
       "price": 23,
       "stayTime": 3,
@@ -137,20 +78,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "5420309",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 4,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "8:00 AM to 10:00 PM",
       "price": 60,
       "stayTime": 9,
@@ -163,20 +92,8 @@
       "locationType": "Farm",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
       "image": "https://loremflickr.com/300/300",
-      "amenities": ["pool"],
       "information": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "additionalDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "contact": {
-        "phone": "5420309",
-        "email": "kenyan-meal@example.com",
-        "website": "www.kenyan-meal.com"
-      },
       "rating": 5,
-      "policies": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi omnis rerum ipsam incidunt nesciunt odit eius rem cum deserunt eum veritatis cumque unde iure, sapiente fugiat sed, eaque natus tempore.",
-      "benefits": {
-        "snacks": ["noodlle", "chips"],
-        "drinks": ["soda", "juice", "coca-cola", "pepsi"]
-      },
       "openingHours": "16:00 PM to 11:00 PM",
       "price": 160,
       "stayTime": 6,
